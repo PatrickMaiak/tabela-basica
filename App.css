@@ -1,0 +1,25 @@
+.App
+ {
+  background-color: tomato;
+  position:relative;
+  left:37%;
+  top:29%;
+  border-radius: 10px ;
+  width:333px;
+  height:390px;
+}
+h1
+ {
+text-align: center;
+}
+fieldset
+{
+  
+  border-radius: 10px ;
+  width:300px;
+  height:250px;
+}
+#texto{
+  position: fixed;
+}
+
